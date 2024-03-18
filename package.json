@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@unseenco/taxi": "^1.5.2",
+    "esbuild": "^0.20.2"
+  }
+}
